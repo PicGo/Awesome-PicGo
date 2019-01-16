@@ -24,7 +24,8 @@
 
 ## :rocket: Plugin for PicGo
 
-- [picgo-plugin-github-plus](https://github.com/zWingz/picgo-plugin-github-plus): picgo uploader for github with sync function.
+- [picgo-plugin-autocopy](https://github.com/PicGo/picgo-plugin-autocopy): A picgo plugin for auto copying url to clipboard after uploading. 【CLI】
+- [picgo-plugin-github-plus](https://github.com/zWingz/picgo-plugin-github-plus): picgo uploader for github with sync function. 【GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
