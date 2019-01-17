@@ -3,7 +3,7 @@
 > A collection of awesome project using [PicGo](https://github.com/PicGo/PicGo-Core).
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12621342/33876119-85a5148e-df5f-11e7-8843-46224e595d52.png" alt="">
+  <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
 </p>
 <p align="center">
   <a href="https://github.com/feross/standard">
@@ -29,7 +29,7 @@
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
-- [vs-picgo](https://github.com/Spades-S/vs-picgo): A VSCode plugin for PicGo.
+- [vs-picgo](https://github.com/Spades-S/vs-picgo): A VSCode plugin of PicGo.
 
 ## :package: Project using PicGo-Core
 
