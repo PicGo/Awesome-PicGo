@@ -26,6 +26,7 @@
 
 - [picgo-plugin-autocopy](https://github.com/PicGo/picgo-plugin-autocopy): A picgo plugin for auto copying url to clipboard after uploading. 【CLI】
 - [picgo-plugin-github-plus](https://github.com/zWingz/picgo-plugin-github-plus): picgo uploader for github with sync function. 【GUI】
+- [picgo-plugin-pic-migrater](https://github.com/PicGo/picgo-plugin-pic-migrater): A PicGo plugin for pictures in markdown files migrating from one picBed to another one. 【CLI&GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
