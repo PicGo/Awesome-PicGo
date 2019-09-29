@@ -29,6 +29,7 @@
 - [picgo-plugin-web-uploader](https://github.com/yuki-xin/picgo-plugin-web-uploader): picgo uploader for custom web api. 【GUI】
 - [picgo-plugin-qingstor-uploader](https://github.com/chengww5217/picgo-plugin-qingstor-uploader): A plugin for PicGo with the addition of the QingStor image hosting. 【GUI】
 - [picgo-plugin-vscode-migrator](https://github.com/upupming/picgo-plugin-vscode-migrator): A plugin for PicGo to import images from [`vs-picgo`](https://github.com/Spades-S/vs-picgo/) 【GUI】
+- [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user.git): A plugin for PicGo for registered user of SM.MS 【GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
