@@ -30,6 +30,8 @@
 - [picgo-plugin-qingstor-uploader](https://github.com/chengww5217/picgo-plugin-qingstor-uploader): A plugin for PicGo with the addition of the QingStor image hosting. 【GUI】
 - [picgo-plugin-vscode-migrator](https://github.com/upupming/picgo-plugin-vscode-migrator): A plugin for PicGo to import images from [`vs-picgo`](https://github.com/Spades-S/vs-picgo/) 【GUI】
 - [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user.git): A plugin for PicGo for registered user of SM.MS 【GUI】
+- [picgo-plugin-gitlab](https://github.com/bugwz/picgo-plugin-gitlab): PicGo Uploader for GitLab 【CLI&GUI】
+- [picgo-plugin-bilibili](https://www.npmjs.com/package/picgo-plugin-bilibili): PicGo Uploader for bilibli 【CLI&GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
