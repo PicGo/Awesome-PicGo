@@ -38,6 +38,7 @@
 - [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader): PicGo Uploader for NextCloud 【CLI&GUI】
 - [picgo-plugin-watermark](https://github.com/Dec-F/picgo-plugin-watermark): PicGo's watermark plugin 【CLI&GUI】【v2.2.0+】
 - [picgo-plugin-quick-capture](https://github.com/PicGo/picgo-plugin-quick-capture): A quick capture screenshot && uploading plugin for PicGo 【CLI&GUI】【v2.2.0+】
+- [picgo-plugin-azure](https://github.com/CaiJingLong/picgo-plugin-azure) PicGo Uploader for [azure](http://dev.azure.com)【CLI&GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
