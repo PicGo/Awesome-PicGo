@@ -40,6 +40,9 @@
 - [picgo-plugin-quick-capture](https://github.com/PicGo/picgo-plugin-quick-capture): A quick capture screenshot && uploading plugin for PicGo 【CLI&GUI】【v2.2.0+】
 - [picgo-plugin-azure](https://github.com/CaiJingLong/picgo-plugin-azure) PicGo Uploader for [azure](http://dev.azure.com)【CLI&GUI】
 - [picgo-plugin-sharp](https://github.com/iovw/picgo-plugin-sharp) Image transformer plugin, Can be used for image compression【CLI】
+- [picgo-plugin-alipic](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for Alibaba(1688) 【CLI&GUI】
+- [picgo-plugin-lskypro](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for [LskyPro](https://www.lsky.pro/) 【CLI&GUI】
+- [picgo-plugin-chevereto](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for Chevereto 【CLI&GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
