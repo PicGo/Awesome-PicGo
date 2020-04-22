@@ -43,6 +43,7 @@
 - [picgo-plugin-alipic](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for Alibaba(1688) 【CLI&GUI】
 - [picgo-plugin-lskypro](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for [LskyPro](https://www.lsky.pro/) 【CLI&GUI】
 - [picgo-plugin-chevereto](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for Chevereto 【CLI&GUI】
+- [picgo-plugin-coding](https://github.com/zytomorrow/picgo-plugin-coding): PicGo Uploader for coding.net【CLI&GUI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
