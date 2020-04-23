@@ -44,6 +44,7 @@
 - [picgo-plugin-lskypro](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for [LskyPro](https://www.lsky.pro/) 【CLI&GUI】
 - [picgo-plugin-chevereto](https://github.com/acewfdy/PicGoPlugins): PicGo Uploader for Chevereto 【CLI&GUI】
 - [picgo-plugin-coding](https://github.com/zytomorrow/picgo-plugin-coding): PicGo Uploader for coding.net【CLI&GUI】
+- [picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress): A PicGo plugin for can be used to compress pictures【CLI】
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
