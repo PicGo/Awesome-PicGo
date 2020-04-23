@@ -37,7 +37,7 @@
 | [picgo-plugin-bilibili](https://www.npmjs.com/package/picgo-plugin-bilibili) | An **uploader** for Bilibli.                                 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee](https://github.com/zhanghuid/picgo-plugin-gitee) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee-uploader](https://github.com/lizhuangs/picgo-plugin-gitee-uploader#readme) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader) | An uploader for Nextcloud.                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader) | An **uploader** for Nextcloud.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-watermark](https://github.com/Dec-F/picgo-plugin-watermark) | A plugin for watermarking pictures. **【GUI v2.2.0+】**      | :x:                | :white_check_mark: |
 | [picgo-plugin-quick-capture](https://github.com/PicGo/picgo-plugin-quick-capture) | A plugin for quickly capture screenshot && uploading. **【GUI v2.2.0+】** | :x:                | :white_check_mark: |
 | [picgo-plugin-azure](https://github.com/CaiJingLong/picgo-plugin-azure) | An **uploader** for [Azure](http://dev.azure.com).           | :white_check_mark: | :white_check_mark: |
