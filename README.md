@@ -59,6 +59,10 @@
 
 ## :package: Project using PicGo-Core
 
+| Name                                             | Introduction              |
+| ------------------------------------------------ | ------------------------- |
+| [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
+
 ------
 
 ## Contribution
