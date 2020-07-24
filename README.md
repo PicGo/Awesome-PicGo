@@ -50,6 +50,7 @@
 | [picgo-plugin-wxcloud-uploader](https://github.com/arleyGuoLei/picgo-plugin-wxcloud-uploader) | An **uploader** for wx-cloud (微信云开发-云存储) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-folder-name](https://github.com/evgo2017/picgo-plugin-folder-name) | A plugin for use part of the local address of the file as part of the cloud address. ( 将文件的部分本地地址，作为部分云端地址) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-dir-prefix](https://github.com/karboom/picgo-plugin-dir-prefix) | A plugin for generate file upload key with directory struct.         | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) | A PicGo plugin for customizing file name.(文件(包括路径)名称支持日期、随机字符串、文件MD5、原文件名、原文件目录结构等) | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
