@@ -53,8 +53,8 @@
 | [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) | A PicGo plugin for customizing file name.(文件(包括路径)名称支持日期、随机字符串、文件MD5、原文件名、原文件目录结构等) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-ucloud](https://github.com/Wsine/picgo-plugin-ucloud) | A PicGo plugin for UCloud. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-UCloud-uploader](https://github.com/xizeyoupan/picgo-plugin-UCloud-uploader) | Another **uploader** for UCloud. | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ftp-uploader](https://github.com/imba97/picgo-plugin-ftp-uploader) | An **uploader** for upload by FTP | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for upload by SSH SCP | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ftp-uploader](https://github.com/imba97/picgo-plugin-ftp-uploader) | An **uploader** for uploadding via FTP | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for uploadding via SSH SCP | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
