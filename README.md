@@ -34,6 +34,7 @@
 | [picgo-plugin-super-prefix](https://github.com/gclove/picgo-plugin-super-prefix#readme) | A plugin for customizing images filename and prefix.         | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user.git) | An **uploader** for registered user of SM.MS.                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitlab](https://github.com/bugwz/picgo-plugin-gitlab) | An **uploader** for GitLab.                                  | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gitlab-files](https://github.com/D-W-X/picgo-plugin-gitlab-files) | An **uploader** for GitLab.Every file make a pull request.                                  | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-bilibili](https://www.npmjs.com/package/picgo-plugin-bilibili) | An **uploader** for Bilibli.                                 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee](https://github.com/zhanghuid/picgo-plugin-gitee) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee-uploader](https://github.com/lizhuangs/picgo-plugin-gitee-uploader#readme) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
