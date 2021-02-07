@@ -34,11 +34,11 @@
 | [picgo-plugin-super-prefix](https://github.com/gclove/picgo-plugin-super-prefix#readme) | A plugin for customizing images filename and prefix.         | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user.git) | An **uploader** for registered user of SM.MS.                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitlab](https://github.com/bugwz/picgo-plugin-gitlab) | An **uploader** for GitLab.                                  | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-gitlab-files](https://github.com/D-W-X/picgo-plugin-gitlab-files) | An **uploader** for GitLab.Every file make a pull request.                                  | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gitlab-files](https://github.com/D-W-X/picgo-plugin-gitlab-files) | An **uploader** for GitLab.Every file make a pull request.   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-bilibili](https://www.npmjs.com/package/picgo-plugin-bilibili) | An **uploader** for Bilibli.                                 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee](https://github.com/zhanghuid/picgo-plugin-gitee) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee-uploader](https://github.com/lizhuangs/picgo-plugin-gitee-uploader#readme) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader) | An **uploader** for Nextcloud.                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader) | An **uploader** for Nextcloud.                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-watermark](https://github.com/Dec-F/picgo-plugin-watermark) | A plugin for watermarking pictures. **【GUI v2.2.0+】**      | :x:                | :white_check_mark: |
 | [picgo-plugin-quick-capture](https://github.com/PicGo/picgo-plugin-quick-capture) | A plugin for quickly capture screenshot && uploading. **【GUI v2.2.0+】** | :x:                | :white_check_mark: |
 | [picgo-plugin-azure](https://github.com/CaiJingLong/picgo-plugin-azure) | An **uploader** for [Azure](http://dev.azure.com).           | :white_check_mark: | :white_check_mark: |
@@ -48,14 +48,15 @@
 | [picgo-plugin-chevereto](https://github.com/acewfdy/PicGoPlugins) | An **uploader** for Chevereto.                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-coding](https://github.com/zytomorrow/picgo-plugin-coding) | An **uploader** for Coding.net.                              | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) | A plugin for image compression.                              | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-wxcloud-uploader](https://github.com/arleyGuoLei/picgo-plugin-wxcloud-uploader) | An **uploader** for wx-cloud (微信云开发-云存储) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-wxcloud-uploader](https://github.com/arleyGuoLei/picgo-plugin-wxcloud-uploader) | An **uploader** for wx-cloud (微信云开发-云存储)             | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-folder-name](https://github.com/evgo2017/picgo-plugin-folder-name) | A plugin for use part of the local address of the file as part of the cloud address. ( 将文件的部分本地地址，作为部分云端地址) | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-dir-prefix](https://github.com/karboom/picgo-plugin-dir-prefix) | A plugin for generate file upload key with directory struct.         | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-dir-prefix](https://github.com/karboom/picgo-plugin-dir-prefix) | A plugin for generate file upload key with directory struct. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-rename-file](https://github.com/liuwave/picgo-plugin-rename-file) | A PicGo plugin for customizing file name.(文件(包括路径)名称支持日期、随机字符串、文件MD5、原文件名、原文件目录结构等) | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ucloud](https://github.com/Wsine/picgo-plugin-ucloud) | A PicGo plugin for UCloud. | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-UCloud-uploader](https://github.com/xizeyoupan/picgo-plugin-UCloud-uploader) | Another **uploader** for UCloud. | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ftp-uploader](https://github.com/imba97/picgo-plugin-ftp-uploader) | An **uploader** for uploading via FTP | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for uploading via SSH SCP | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ucloud](https://github.com/Wsine/picgo-plugin-ucloud) | A PicGo plugin for UCloud.                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-UCloud-uploader](https://github.com/xizeyoupan/picgo-plugin-UCloud-uploader) | Another **uploader** for UCloud.                             | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ftp-uploader](https://github.com/imba97/picgo-plugin-ftp-uploader) | An **uploader** for uploading via FTP                        | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for uploading via SSH SCP                    | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) | An **uploader**  with [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html) API (or other *s3 compatible api* providers). | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
