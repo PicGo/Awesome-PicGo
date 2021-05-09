@@ -43,9 +43,6 @@
 | [picgo-plugin-quick-capture](https://github.com/PicGo/picgo-plugin-quick-capture) | A plugin for quickly capture screenshot && uploading. **【GUI v2.2.0+】** | :x:                | :white_check_mark: |
 | [picgo-plugin-azure](https://github.com/CaiJingLong/picgo-plugin-azure) | An **uploader** for [Azure](http://dev.azure.com).           | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-sharp](https://github.com/iovw/picgo-plugin-sharp) | A **transformer** for image compression.                     | :white_check_mark: | :x:                |
-| [picgo-plugin-alipic](https://github.com/acewfdy/PicGoPlugins) | An **uploader** for Alibaba(1688).                           | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-lskypro](https://github.com/acewfdy/PicGoPlugins) | An **uploader** for [LskyPro](https://www.lsky.pro/).        | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-chevereto](https://github.com/acewfdy/PicGoPlugins) | An **uploader** for Chevereto.                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-coding](https://github.com/zytomorrow/picgo-plugin-coding) | An **uploader** for Coding.net.                              | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) | A plugin for image compression.                              | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-wxcloud-uploader](https://github.com/arleyGuoLei/picgo-plugin-wxcloud-uploader) | An **uploader** for wx-cloud (微信云开发-云存储)             | :white_check_mark: | :white_check_mark: |
