@@ -55,6 +55,7 @@
 | [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for uploading via SSH SCP                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) | An **uploader**  with [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html) API (or other *s3 compatible api* providers). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) | An **uploader** for MinIO | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）. | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
