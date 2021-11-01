@@ -25,6 +25,7 @@
 
 | Name                                                         | Introduction                                                 | CLI                | GUI                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------ |
+| [picgo-plugin-halo-uploader](https://github.com/foraixh/picgo-plugin-halo-uploader) | An **uploader** for [halo blog](https://halo.run/).          | :white_check_mark: | :x:                |
 | [picgo-plugin-autocopy](https://github.com/PicGo/picgo-plugin-autocopy) | A plugin for auto copying url to clipboard after uploading.  | :white_check_mark: | :x:                |
 | [picgo-plugin-github-plus](https://github.com/zWingz/picgo-plugin-github-plus) | An **uploader** for GitHub & Gitee with sync function.       | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-pic-migrater](https://github.com/PicGo/picgo-plugin-pic-migrater) | A plugin for pictures in markdown files migrating from one img host to another one. | :white_check_mark: | :white_check_mark: |
@@ -35,7 +36,7 @@
 | [picgo-plugin-smms-user](https://github.com/xlzy520/picgo-plugin-smms-user.git) | An **uploader** for registered user of SM.MS.                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitlab](https://github.com/bugwz/picgo-plugin-gitlab) | An **uploader** for GitLab.                                  | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitlab-files](https://github.com/D-W-X/picgo-plugin-gitlab-files) | An **uploader** for GitLab.Every file make a pull request.   | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili) | An **uploader** for Bilibili.                                 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili) | An **uploader** for Bilibili.                                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee](https://github.com/zhanghuid/picgo-plugin-gitee) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitee-uploader](https://github.com/lizhuangs/picgo-plugin-gitee-uploader#readme) | An **uploader** for Gitee.                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-nextcloud-uploader](https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader) | An **uploader** for Nextcloud.                               | :white_check_mark: | :white_check_mark: |
@@ -54,8 +55,8 @@
 | [picgo-plugin-ftp-uploader](https://github.com/imba97/picgo-plugin-ftp-uploader) | An **uploader** for uploading via FTP                        | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-ssh-scp-uploader](https://github.com/imba97/picgo-plugin-ssh-scp-uploader) | An **uploader** for uploading via SSH SCP                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) | An **uploader**  with [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html) API (or other *s3 compatible api* providers). | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) | An **uploader** for MinIO | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）. | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) | An **uploader** for MinIO                                    | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）.     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
