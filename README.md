@@ -25,7 +25,6 @@
 
 | Name                                                         | Introduction                                                 | CLI                | GUI                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ------------------ |
-| [picgo-plugin-halo-uploader](https://github.com/foraixh/picgo-plugin-halo-uploader) | An **uploader** for [halo blog](https://halo.run/).          | :white_check_mark: | :x:                |
 | [picgo-plugin-autocopy](https://github.com/PicGo/picgo-plugin-autocopy) | A plugin for auto copying url to clipboard after uploading.  | :white_check_mark: | :x:                |
 | [picgo-plugin-github-plus](https://github.com/zWingz/picgo-plugin-github-plus) | An **uploader** for GitHub & Gitee with sync function.       | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-pic-migrater](https://github.com/PicGo/picgo-plugin-pic-migrater) | A plugin for pictures in markdown files migrating from one img host to another one. | :white_check_mark: | :white_check_mark: |
@@ -58,6 +57,7 @@
 | [picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) | An **uploader** for MinIO                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）.     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-halo-uploader](https://github.com/foraixh/picgo-plugin-halo-uploader) | An **uploader** for [halo blog](https://halo.run/).          | :white_check_mark: | :x:                |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
