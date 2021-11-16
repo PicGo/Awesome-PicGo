@@ -58,6 +58,7 @@
 | [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）.     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-halo-uploader](https://github.com/foraixh/picgo-plugin-halo-uploader) | An **uploader** for [halo blog](https://halo.run/).          | :white_check_mark: | :x:                |
+| [picgo-plugin-cfi-uploader](https://github.com/boeto/picgo-plugin-cfi-uploader)                       | An **uploader** for [Cloudflare Images](https://dash.cloudflare.com/?to=/:account/images)                                                     | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
