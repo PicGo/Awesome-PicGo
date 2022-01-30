@@ -61,20 +61,20 @@
 | [picgo-plugin-cfi-uploader](https://github.com/boeto/picgo-plugin-cfi-uploader) | An **uploader** for [Cloudflare Images](https://dash.cloudflare.com/?to=/:account/images) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-auto-delete](https://github.com/MiracleDx/picgo-plugin-auto-delete) | A PicGo plugin for auto delete image when upload success     | :white_check_mark: | :x:                |
 | [picgo-plugin-dogecloud](https://github.com/W4J1e/picgo-plugin-dogecloud) | An **uploader** for uploading to dogecloud(多吉云)           | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-npm](https://github.com/thun888/picgo-plugin-npm) | An **uploader** for npmjs.com                                | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-npm](https://github.com/thun888/picgo-plugin-npm) | An **uploader** for npmjs.com | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
-| Name                                              | Introduction                   |
-| ------------------------------------------------- | ------------------------------ |
-| [vs-picgo](https://github.com/Spades-S/vs-picgo)  | A VSCode plugin of PicGo.      |
-| [coc-picgo](https://github.com/PLDaily/coc-picgo) | A Vim plugin of PicGo.         |
-| [atom-picgo](https://atom.io/packages/atom-picgo) | An Atom Editor plugin of PicGo |
+| Name                                             | Introduction              |
+| ------------------------------------------------ | ------------------------- |
+| [vs-picgo](https://github.com/Spades-S/vs-picgo) | A VSCode plugin of PicGo. |
+| [coc-picgo](https://github.com/PLDaily/coc-picgo) | A Vim plugin of PicGo. |
+| [atom-picgo](https://atom.io/packages/atom-picgo) | An Atom Editor plugin of PicGo|
 
 ## :package: Project using PicGo-Core
 
-| Name                                             | Introduction                   |
-| ------------------------------------------------ | ------------------------------ |
+| Name                                             | Introduction              |
+| ------------------------------------------------ | ------------------------- |
 | [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
 
 ------
