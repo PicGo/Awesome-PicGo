@@ -61,8 +61,8 @@
 | [picgo-plugin-cfi-uploader](https://github.com/boeto/picgo-plugin-cfi-uploader) | An **uploader** for [Cloudflare Images](https://dash.cloudflare.com/?to=/:account/images) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-auto-delete](https://github.com/MiracleDx/picgo-plugin-auto-delete) | A PicGo plugin for auto delete image when upload success     | :white_check_mark: | :x:                |
 | [picgo-plugin-dogecloud](https://github.com/W4J1e/picgo-plugin-dogecloud) | An **uploader** for uploading to dogecloud(多吉云)           | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-postimage](https://github.com/Redns/picgo-plugin-postimage) | An uploader for [postimage](https://postimages.org/)         | :x:                | :white_check_mark: |
-| [picgo-plugin-easypic](https://github.com/Redns/picgo-plugin-easypic) | An **uploader** for [My-Easy-Pic-Bed](https://github.com/Redns/My-Easy-Pic-Bed) | :x:                | :white_check_mark: |
+| [picgo-plugin-postimage](https://github.com/Redns/picgo-plugin-postimage) | An **uploader** for [postimage](https://postimages.org/)     | :x:                | :white_check_mark: |
+| [picgo-plugin-easypic](https://github.com/Redns/picgo-plugin-easypic) | An **uploader** for [fslongjin/My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) | :x:                | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
