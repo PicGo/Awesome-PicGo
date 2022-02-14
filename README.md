@@ -65,6 +65,7 @@
 | [picgo-plugin-easypic](https://github.com/Redns/picgo-plugin-easypic) | An **uploader** for [My-Easy-Pic-Bed](https://github.com/fslongjin/My-Easy-Pic-Bed) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-nutstore](https://github.com/Redns/picgo-plugin-NutStore) | An **uploader** for [NutStore](https://www.jianguoyun.com/) (坚果云) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-bilinyun](https://github.com/Redns/picgo-plugin-bilinyun) | An **uploader** for [bilinyun](https://www.bilnn.com/) (比邻云) | :white_check_mark: | :white_check_mark: |
+| [Redns/picgo-plugin-imgtp](https://github.com/Redns/picgo-plugin-imgtp) | An **uploader** for [ImgTP](https://imgtp.com/)              | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
