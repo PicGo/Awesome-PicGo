@@ -67,6 +67,7 @@
 | [picgo-plugin-bilinyun](https://github.com/Redns/picgo-plugin-bilinyun) | An **uploader** for [bilinyun](https://www.bilnn.com/) (比邻云) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-imgtp](https://github.com/Redns/picgo-plugin-imgtp) | An **uploader** for [ImgTP](https://imgtp.com/)              | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-imagebed](https://github.com/Redns/picgo-plugin-imagebed) | An **uploader** for [ImageBed](https://github.com/Redns/ImageBed) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-mmwiki](https://github.com/wowtalon/picgo-plugin-mmwiki) | An **uploader** for [mm-wiki](https://github.com/phachon/mm-wiki) | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
