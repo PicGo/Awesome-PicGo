@@ -69,6 +69,7 @@
 | [picgo-plugin-imagebed](https://github.com/Redns/picgo-plugin-imagebed) | An **uploader** for [ImageBed](https://github.com/Redns/ImageBed) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-mmwiki](https://github.com/wowtalon/picgo-plugin-mmwiki) | An **uploader** for [mm-wiki](https://github.com/phachon/mm-wiki) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) | An **uploader** for [兰空图床 Lsky Pro](https://github.com/lsky-org/lsky-pro) 支持 V1 和 V2 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) | A plugin for image backup                                    | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
