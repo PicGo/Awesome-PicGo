@@ -71,6 +71,7 @@
 | [picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) | An **uploader** for [兰空图床 Lsky Pro](https://github.com/lsky-org/lsky-pro) 支持 V1 和 V2 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) | A plugin for image backup                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compression](https://github.com/Redns/picgo-plugin-compression) | A plugin for image compression                               | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，Storj(稳定免费150GB)                     | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
