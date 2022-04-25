@@ -86,6 +86,7 @@
 | Name                                             | Introduction              |
 | ------------------------------------------------ | ------------------------- |
 | [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
+| [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim |
 
 ------
 
