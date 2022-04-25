@@ -73,6 +73,7 @@
 | [picgo-plugin-compression](https://github.com/Redns/picgo-plugin-compression) | A plugin for image compression                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。                     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) | An **uploader** for [Cloudinary](https://cloudinary.com/)                    |  :white_check_mark: | :white_check_mark: |
+
 ## :hammer_and_wrench: Plugin for Other APPs
 
 | Name                                             | Introduction              |
@@ -86,6 +87,7 @@
 | Name                                             | Introduction              |
 | ------------------------------------------------ | ------------------------- |
 | [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
+| [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim |
 
 ------
 
