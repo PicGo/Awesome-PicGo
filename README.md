@@ -74,7 +74,7 @@
 | [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。                     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) | An **uploader** for [Cloudinary](https://cloudinary.com/)                    |  :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) and rename with md5    |  :white_check_mark: | :white_check_mark: |
-
+| [picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager) | An **uploader** for [onemanager](https://github.com/qkqpttgf/OneManager-php) 联动onemanager将onedrive作为免费图床。     |  :white_check_mark: | :white_check_mark: |
 ## :hammer_and_wrench: Plugin for Other APPs
 
 | Name                                             | Introduction              |
