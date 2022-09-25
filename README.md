@@ -77,6 +77,7 @@
 | [picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager) | An **uploader** for [onemanager](https://github.com/qkqpttgf/OneManager-php) 联动onemanager将onedrive作为免费图床。     |  :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-remove-exif](https://github.com/hans362/picgo-plugin-remove-exif) | Remove EXIF data before uploading 上传图片前移除EXIF数据 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-penzi](https://github.com/lipeilin375/picgo-plugin-penzi) | An **uploader** for [喷子图床](https://pz.al/) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ipfs](https://github.com/KANIKIG/picgo-plugin-ipfs) | An **uploader** for IPFS. | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
