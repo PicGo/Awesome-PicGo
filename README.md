@@ -96,6 +96,13 @@
 | [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
 | [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim |
 
+## :star: Apps supports PicGo Configuration
+
+| Name                                             | Introduction              |
+| ------------------------------------------------ | ------------------------- |
+| [flutter-picgo](https://github.com/PicGo/flutter-picgo) | PicGo mobile app |
+| [PicHoro](https://github.com/Kuingsmile/PicHoro) | Another PicGo mobile app |
+
 ------
 
 ## Contribution
