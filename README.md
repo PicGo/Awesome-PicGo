@@ -79,6 +79,7 @@
 | [picgo-plugin-penzi](https://github.com/lipeilin375/picgo-plugin-penzi) | An **uploader** for [喷子图床](https://pz.al/) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-ipfs](https://github.com/KANIKIG/picgo-plugin-ipfs) | An **uploader** for IPFS. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) | An **uploader** for Alist 在picgo把alist作为图床 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-light-picture](https://github.com/ColdeZhang/picgo-plugin-light-picture) | An **uploader** for Light Picture 适用于Light Picture图床 | :white_check_mark: | :x: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
