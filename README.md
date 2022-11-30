@@ -56,7 +56,6 @@
 | [picgo-plugin-s3](https://github.com/wayjam/picgo-plugin-s3) | An **uploader**  with [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html) API (or other *s3 compatible api* providers). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-minio](https://github.com/Herbertzz/picgo-plugin-minio) | An **uploader** for MinIO                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-huawei-uploader](https://github.com/YunfengGao/picgo-plugin-huawei-uploader) | An **uploader** for HUAWEI Cloud OBS（华为云 对象存储）.     | :white_check_mark: | :white_check_mark: |
-<!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 | [picgo-plugin-halo-uploader](https://github.com/foraixh/picgo-plugin-halo-uploader) | An **uploader** for [halo blog](https://halo.run/).          | :white_check_mark: | :x:                |
 | [picgo-plugin-cfi-uploader](https://github.com/boeto/picgo-plugin-cfi-uploader) | An **uploader** for [Cloudflare Images](https://dash.cloudflare.com/?to=/:account/images) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-auto-delete](https://github.com/MiracleDx/picgo-plugin-auto-delete) | A PicGo plugin for auto delete image when upload success     | :white_check_mark: | :x:                |
@@ -80,6 +79,7 @@
 | [picgo-plugin-ipfs](https://github.com/KANIKIG/picgo-plugin-ipfs) | An **uploader** for IPFS. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) | An **uploader** for Alist 在picgo把alist作为图床 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-light-picture](https://github.com/ColdeZhang/picgo-plugin-light-picture) | An **uploader** for Light Picture 适用于Light Picture图床 | :x: | :white_check_mark: |
+<!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
