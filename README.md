@@ -97,6 +97,7 @@
 | ------------------------------------------------ | ------------------------- |
 | [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
 | [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim |
+| [PicList](https://github.com/Kuingsmile/PicList) | Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能) |
 
 ## :star: Apps supports PicGo Configuration
 
