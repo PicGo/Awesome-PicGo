@@ -81,6 +81,7 @@
 | [picgo-plugin-light-picture](https://github.com/ColdeZhang/picgo-plugin-light-picture) | An **uploader** for Light Picture 适用于Light Picture图床 | :x: | :white_check_mark: |
 | [picgo-plugin-oss-outside-url](https://github.com/caohongliang92/picgo-plugin-oss-outside-url) | A plugin for PicGo to get oss outside url 用于获取OSS私有空间资源外链的PicGo插件，支持阿里云OSS、腾讯云COS、七牛云Kodo | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-convert-heic](https://github.com/DingJunyao/picgo-plugin-convert-heic) | Convert HEIC Photo to other formats (Currently only support converting to JPEG). | :white_check_mark: | :white_check_mark: |
+|[picgo-plugin-lsky-uploader](https://github.com/lsilencej/picgo-plugin-lsky-uploader) | An **uploader** for LskyPro 适用于服务器自建兰空图床开源版 | :white_check_mark: | :white_check_mark: |
 <!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
 ## :hammer_and_wrench: Plugin for Other APPs
