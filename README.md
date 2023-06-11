@@ -86,6 +86,7 @@
 | [picgo-plugin-lsky-uploader](https://github.com/lsilencej/picgo-plugin-lsky-uploader) | An **uploader** for [LskyPro](https://github.com/lsky-org/lsky-pro) 适用于服务器自建兰空图床开源版 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gofile](https://github.com/songquanpeng/picgo-plugin-gofile) | An **uploader** for [Go File](https://github.com/songquanpeng/go-file). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gofile](https://github.com/yibaiba/picgo-plugin-yujian) | An **uploader** for [遇见图床](https://github.com/yibaiba/picgo-plugin-yujian). | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-imgbb-uploader](https://github.com/cloudnzk/picgo-plugin-imgbb-uploader) | An **uploader** for [Imgbb](https://imgbb.com/). | :white_check_mark: | :white_check_mark: |
 <!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
 ## :hammer_and_wrench: Plugin for Other APPs
