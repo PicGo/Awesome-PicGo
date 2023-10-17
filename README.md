@@ -88,6 +88,7 @@
 | [picgo-plugin-gofile](https://github.com/yibaiba/picgo-plugin-yujian) | An **uploader** for [遇见图床](https://github.com/yibaiba/picgo-plugin-yujian). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-imgbb-uploader](https://github.com/cloudnzk/picgo-plugin-imgbb-uploader) | An **uploader** for [Imgbb](https://imgbb.com/). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-lychee](https://github.com/ttionya/picgo-plugin-lychee) | An **uploader** for [Lychee](https://github.com/LycheeOrg/Lychee). | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) | An **uploader** for [Google Drive](https://drive.google.com). | :white_check_mark: | :white_check_mark: |
 <!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
 ## :hammer_and_wrench: Plugin for Other APPs
