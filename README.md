@@ -90,6 +90,7 @@
 | [picgo-plugin-lychee](https://github.com/ttionya/picgo-plugin-lychee) | An **uploader** for [Lychee](https://github.com/LycheeOrg/Lychee). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-simpletex](https://github.com/zhuozhiyongde/picgo-plugin-simpletex) | An **uploader** for [SimpleTex](https://simpletex.cn/). Allow you to use LaTeX OCR based on SimpleTex. 基于 SimpleTex 的 LaTeX 光学字符识别，可以作为 MathPix 的替代品 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) | An **uploader** for [Google Drive](https://drive.google.com). | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-oss-custom-headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers) | A **plugin** for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) | An **uploader** for [FreeImage.Host](https://FreeImage.Host) | :white_check_mark: | :white_check_mark: |
 <!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
