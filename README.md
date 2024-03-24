@@ -92,6 +92,7 @@
 | [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) | An **uploader** for [Google Drive](https://drive.google.com). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-oss-custom-headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers) | A **plugin** for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) | An **uploader** for [FreeImage.Host](https://FreeImage.Host) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) | :white_check_mark: | :white_check_mark: |
 <!-- | [picgo-plugin-superbed](https://github.com/MoyuScript/picgo-plugin-superbed) | An **uploader** for [Superbed（聚合图床）](https://www.superbed.cn/) | :white_check_mark: | :white_check_mark: | -->
 
 ## :hammer_and_wrench: Plugin for Other APPs
