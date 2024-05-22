@@ -92,6 +92,7 @@
 | [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) | An **uploader** for [Google Drive](https://drive.google.com). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-oss-custom-headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers) | A **plugin** for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) | An **uploader** for [FreeImage.Host](https://FreeImage.Host) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) |A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) 插件 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader)           | An **uploader** for [immich](https://immich.app/)                                                                                                 | :white_check_mark: | :white_check_mark: |
 
