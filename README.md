@@ -70,7 +70,7 @@
 | [picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) | An **uploader** for [兰空图床 Lsky Pro](https://github.com/lsky-org/lsky-pro) 支持 V1 和 V2 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) | A plugin for image backup                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compression](https://github.com/Redns/picgo-plugin-compression) | A plugin for image compression                               | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ali](https://github.com/Yukuiii/picgo-plugin-ali) | A PicGo plugin for Ali.使用阿里速卖通作为图床                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ali](https://github.com/Yukuiii/picgo-plugin-ali) | An **uploader** for Ali | 用阿里速卖通作为图床                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。                     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) | An **uploader** for [Cloudinary](https://cloudinary.com/)                    |  :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) and rename with md5    |  :white_check_mark: | :white_check_mark: |
