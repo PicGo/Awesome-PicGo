@@ -95,6 +95,7 @@
 | [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) |A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) 插件 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader)           | An **uploader** for [immich](https://immich.app/)                                                                                                 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-oceanpic-uploader](https://github.com/RicePasteM/Oceanpic-Uploader)           | An **uploader** for [OceanStorage](https://github.com/OceanStorage) which allows you to upload any image using OceanStorage as a host server. | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
