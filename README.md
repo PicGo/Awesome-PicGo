@@ -70,56 +70,58 @@
 | [picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) | An **uploader** for [兰空图床 Lsky Pro](https://github.com/lsky-org/lsky-pro) 支持 V1 和 V2 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-autobackup](https://github.com/Redns/picgo-plugin-autobackup) | A plugin for image backup                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compression](https://github.com/Redns/picgo-plugin-compression) | A plugin for image compression                               | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。                     | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) | An **uploader** for [Cloudinary](https://cloudinary.com/)                    |  :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) and rename with md5    |  :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager) | An **uploader** for [onemanager](https://github.com/qkqpttgf/OneManager-php) 联动onemanager将onedrive作为免费图床。     |  :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-remove-exif](https://github.com/hans362/picgo-plugin-remove-exif) | Remove EXIF data before uploading 上传图片前移除EXIF数据 | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-penzi](https://github.com/lipeilin375/picgo-plugin-penzi) | An **uploader** for [喷子图床](https://pz.al/) | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-ipfs](https://github.com/KANIKIG/picgo-plugin-ipfs) | An **uploader** for IPFS. | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) | An **uploader** for Alist 在picgo把alist作为图床 | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-light-picture](https://github.com/ColdeZhang/picgo-plugin-light-picture) | An **uploader** for Light Picture 适用于Light Picture图床 | :x: | :white_check_mark: |
+| [picgo-plugin-rclone](https://github.com/yabostone/picgo-plugin-rclone) | An **uploader** for [RCLONE](https://rclone.org/) 联动RCLONE，支持本地备份/远端备份，支持40多种后端。 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-cloudinary](https://github.com/yabostone/picgo-plugin-cloudinary) | An **uploader** for [Cloudinary](https://cloudinary.com/)    | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-squoosh](https://github.com/JolyneAnasui/picgo-plugin-squoosh) | A plugin for compressing image locally using [@squoosh/lib](https://github.com/GoogleChromeLabs/squoosh/tree/dev/libsquoosh) and rename with md5 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-onemanager](https://github.com/laoxinH/picgo-plugin-onemanager) | An **uploader** for [onemanager](https://github.com/qkqpttgf/OneManager-php) 联动onemanager将onedrive作为免费图床。 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-remove-exif](https://github.com/hans362/picgo-plugin-remove-exif) | Remove EXIF data before uploading 上传图片前移除EXIF数据     | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-penzi](https://github.com/lipeilin375/picgo-plugin-penzi) | An **uploader** for [喷子图床](https://pz.al/)               | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ipfs](https://github.com/KANIKIG/picgo-plugin-ipfs) | An **uploader** for IPFS.                                    | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist) | An **uploader** for Alist 在picgo把alist作为图床             | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-light-picture](https://github.com/ColdeZhang/picgo-plugin-light-picture) | An **uploader** for Light Picture 适用于Light Picture图床    | :x:                | :white_check_mark: |
 | [picgo-plugin-oss-outside-url](https://github.com/caohongliang92/picgo-plugin-oss-outside-url) | A plugin for PicGo to get oss outside url 用于获取OSS私有空间资源外链的PicGo插件，支持阿里云OSS、腾讯云COS、七牛云Kodo | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-convert-heic](https://github.com/DingJunyao/picgo-plugin-convert-heic) | Convert HEIC Photo to other formats (Currently only support converting to JPEG). | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-azureimg](https://github.com/YukiCoco/picgo-plugin-azureimg) | An **uploader** for [Azure Repo](https://dev.azure.com/)  | :white_check_mark: | :x:                |
-| [picgo-plugin-free-uploader](https://github.com/yuanyxh/picgo-plugin-free-uploader) | a picgo plug -in, support user custom script. | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-azureimg](https://github.com/YukiCoco/picgo-plugin-azureimg) | An **uploader** for [Azure Repo](https://dev.azure.com/)     | :white_check_mark: | :x:                |
+| [picgo-plugin-free-uploader](https://github.com/yuanyxh/picgo-plugin-free-uploader) | a picgo plug -in, support user custom script.                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-lsky-uploader](https://github.com/lsilencej/picgo-plugin-lsky-uploader) | An **uploader** for [LskyPro](https://github.com/lsky-org/lsky-pro) 适用于服务器自建兰空图床开源版 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gofile](https://github.com/songquanpeng/picgo-plugin-gofile) | An **uploader** for [Go File](https://github.com/songquanpeng/go-file). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gofile](https://github.com/yibaiba/picgo-plugin-yujian) | An **uploader** for [遇见图床](https://github.com/yibaiba/picgo-plugin-yujian). | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-imgbb-uploader](https://github.com/cloudnzk/picgo-plugin-imgbb-uploader) | An **uploader** for [Imgbb](https://imgbb.com/). | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-imgbb-uploader](https://github.com/cloudnzk/picgo-plugin-imgbb-uploader) | An **uploader** for [Imgbb](https://imgbb.com/).             | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-lychee](https://github.com/ttionya/picgo-plugin-lychee) | An **uploader** for [Lychee](https://github.com/LycheeOrg/Lychee). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-simpletex](https://github.com/zhuozhiyongde/picgo-plugin-simpletex) | An **uploader** for [SimpleTex](https://simpletex.cn/). Allow you to use LaTeX OCR based on SimpleTex. 基于 SimpleTex 的 LaTeX 光学字符识别，可以作为 MathPix 的替代品 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gdrive](https://github.com/xinatcg/picgo-plugin-gdrive) | An **uploader** for [Google Drive](https://drive.google.com). | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-oss-custom-headers](https://github.com/codenoy/picgo-plugin-oss-custom-headers) | A **plugin** for aliyun(oss) to custom headers. 阿里云OSS自定义请求头, 给OSS图床添加浏览器Http缓存. | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-freeimagehost-uploader](https://github.com/quul/picgo-plugin-freeimagehost-uploader) | An **uploader** for [FreeImage.Host](https://FreeImage.Host) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-telegraph-image-uploader](https://github.com/msdx/picgo-plugin-telegraph-image-uploader) | An **uploader** for **Any** image host server built using [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) |A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) 插件 | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader)           | An **uploader** for [immich](https://immich.app/)                                                                                                 | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) | A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) 插件 | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader) | An **uploader** for [immich](https://immich.app/)            | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/)          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/)          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-wxmp-uploader](https://github.com/zhoucha/picgo-plugin-wxmp-uploader) | An **uploader** for [picgo-plugin-wxmp-uploader](https://github.com/zhoucha/picgo-plugin-wxmp-uploader) | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
-| Name                                             | Introduction              |
-| ------------------------------------------------ | ------------------------- |
-| [vs-picgo](https://github.com/Spades-S/vs-picgo) | A VSCode plugin of PicGo. |
-| [coc-picgo](https://github.com/PLDaily/coc-picgo) | A Vim plugin of PicGo. |
-| [atom-picgo](https://atom.io/packages/atom-picgo) | An Atom Editor plugin of PicGo|
+| Name                                                         | Introduction                                      |
+| ------------------------------------------------------------ | ------------------------------------------------- |
+| [vs-picgo](https://github.com/Spades-S/vs-picgo)             | A VSCode plugin of PicGo.                         |
+| [coc-picgo](https://github.com/PLDaily/coc-picgo)            | A Vim plugin of PicGo.                            |
+| [atom-picgo](https://atom.io/packages/atom-picgo)            | An Atom Editor plugin of PicGo                    |
 | [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core |
 
 ## :package: Project using PicGo-Core
 
-| Name                                             | Introduction              |
-| ------------------------------------------------ | ------------------------- |
-| [giki-cli](https://github.com/jwenjian/giki-cli) | A CLI app for https://giki.app |
-| [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim |
-| [PicList](https://github.com/Kuingsmile/PicList) | Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能) |
+| Name                                               | Introduction                                                 |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| [giki-cli](https://github.com/jwenjian/giki-cli)   | A CLI app for https://giki.app                               |
+| [nvim-picgo](https://github.com/askfiy/nvim-picgo) | Picgo plugin for neovim                                      |
+| [PicList](https://github.com/Kuingsmile/PicList)   | Advanced development based on PicGo. (基于PicGo的二次开发版本，增加了云存储管理和相册云端同步删除功能) |
 
 ## :star: Apps supports PicGo Configuration
 
-| Name                                             | Introduction              |
-| ------------------------------------------------ | ------------------------- |
-| [flutter-picgo](https://github.com/PicGo/flutter-picgo) | PicGo mobile app |
-| [PicHoro](https://github.com/Kuingsmile/PicHoro) | Another PicGo mobile app |
+| Name                                                    | Introduction             |
+| ------------------------------------------------------- | ------------------------ |
+| [flutter-picgo](https://github.com/PicGo/flutter-picgo) | PicGo mobile app         |
+| [PicHoro](https://github.com/Kuingsmile/PicHoro)        | Another PicGo mobile app |
 
 ------
 
