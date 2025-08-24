@@ -97,6 +97,7 @@
 | [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader)           | An **uploader** for [immich](https://immich.app/)                                                                                                 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-stardots](https://github.com/stardots-io/picgo-plugin-stardots) | An **uploader** for [StarDots](https://stardots.io) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-imgbox](https://github.com/aquausora/picgo-plugin-imgbox) | An **uploader** for [imgbox](https://imgbox.com/) | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
