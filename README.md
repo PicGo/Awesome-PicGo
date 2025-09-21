@@ -96,7 +96,9 @@
 | [picgo-plugin-cloudflare-telegraph](https://github.com/yanggithubcom/picgo-plugin-cloudflare-telegraph) |A plugin for Cloudflare Pages to host the Telegraph-Image project.适配Cloudflare Pages托管 [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)  项目的 [PicGo](https://github.com/Molunerfinn/PicGo) 插件 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-immich-uploader](https://github.com/kyo-tom/picgo-plugin-immich-uploader)           | An **uploader** for [immich](https://immich.app/)                                                                                                 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-onemanager-v2](https://github.com/steven-jianhao-li/picgo-plugin-onemanager-v2) | An **uploader** for onedrive 将onedrive作为免费图床。 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-stardots](https://github.com/stardots-io/picgo-plugin-stardots) | An **uploader** for [StarDots](https://stardots.io) | :white_check_mark: | :white_check_mark: |
+
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
