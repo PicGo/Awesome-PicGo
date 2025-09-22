@@ -98,6 +98,7 @@
 | [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode) | An **uploader** for [gitcode](https://gitcode.com/) | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-onemanager-v2](https://github.com/steven-jianhao-li/picgo-plugin-onemanager-v2) | An **uploader** for onedrive 将onedrive作为免费图床。 | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-stardots](https://github.com/stardots-io/picgo-plugin-stardots) | An **uploader** for [StarDots](https://stardots.io) | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-multiple-backup](https://github.com/2ue/picgo-plugin-multiple-backup) | A plugin for automatically backing up images to multiple storage services after successful upload to the primary host. | :white_check_mark: | :white_check_mark: |
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
