@@ -23,9 +23,6 @@
   <a href="https://github.com/feross/standard">
     <img src="https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square" alt="">
   </a>
-  <a href="https://travis-ci.org/Molunerfinn/PicGo/builds">
-    <img src="https://img.shields.io/travis/Molunerfinn/PicGo.svg?style=flat-square" alt="">
-  </a>
   <a href="https://github.com/Molunerfinn/PicGo/releases">
     <img src="https://img.shields.io/github/downloads/Molunerfinn/PicGo/total.svg?style=flat-square" alt="">
   </a>
@@ -112,6 +109,20 @@
 | [picgo-plugin-gitcode](https://github.com/jianguo888/picgo-plugin-gitcode)                              | An **uploader** for [gitcode](https://gitcode.com/)                                                                                                                                                                  | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-onemanager-v2](https://github.com/steven-jianhao-li/picgo-plugin-onemanager-v2)           | An **uploader** for onedrive 将onedrive作为免费图床。                                                                                                                                                                | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-stardots](https://github.com/stardots-io/picgo-plugin-stardots)                           | An **uploader** for [StarDots](https://stardots.io)                                                                                                                                                                  | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-avif](https://github.com/Tim-Saijun/picgo-plugin-avif)                                    | Convert images to avif format before uploading for better web distribution. 图像上传前转换为avif格式，实现更好地网页分发                                                                                             | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-cloudflare-r2](https://github.com/JYbill/picgo-plugin-cloudflare-r2)                      | An **uploader** for [cloudflare-R2](https://developers.cloudflare.com/r2/)                                                                                                                                           | :white_check_mark: | :x:                |
+| [picgo-plugin-helloimg-pro-uploader](https://github.com/Mashull/picgo-plugin-helloimg-pro-uploader)     | An **uploader** for [Hello图床(专业版)](https://pro.helloimg.com/)                                                                                                                                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-freeimg-uploader](https://github.com/Mashull/picgo-plugin-freeimg-uploader)               | An **uploader** for [Freeimg图床](https://freeimg.cn/)                                                                                                                                                               | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-ali](https://github.com/Yukuiii/picgo-plugin-ali)                                         | An **uploader** for Ali. 用阿里速卖通作为图床                                                                                                                                                                        | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-oceanpic-uploader](https://github.com/RicePasteM/Oceanpic-Uploader)                       | An **uploader** for [OceanStorage](https://github.com/OceanStorage) which allows you to upload any image using OceanStorage as a host server.                                                                        | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-123pan](https://github.com/WhiteByeBye/picgo-plugin-123pan)                               | An **uploader** for [123pan](https://www.123pan.com)（123云盘）                                                                                                                                                      | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-imageflow](https://github.com/iWangJiaxiang/picgo-plugin-imageflow)                       | An **uploader** for [imageflow](https://github.com/Yuri-NagaSaki/ImageFlow)                                                                                                                                          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-tos-upload](https://github.com/MissingDirection/picgo-plugin-tos-upload)                  | An uploader for tos(火山云存储上传)                                                                                                                                                                                  | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-wxmp-uploader](https://github.com/zhoucha/picgo-plugin-wxmp-uploader)                     | An **uploader** for [picgo-plugin-wxmp-uploader](https://github.com/zhoucha/picgo-plugin-wxmp-uploader)                                                                                                              | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-custom-api-uploader](https://github.com/Layouwen/picgo-plugin-custom-api-uploader)        | Customize API interface to upload images, Example: [16图床](https://111666.best/). 自定义 api 接口上传图片, 例如: [16图床](https://111666.best/).                                                                    | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-multiple-backup](https://github.com/2ue/picgo-plugin-multiple-backup)                     | A plugin for automatically backing up images to multiple storage services after successful upload to the primary host.                                                                                               | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-imgbox](https://github.com/aquausora/picgo-plugin-imgbox)                                 | An **uploader** for [imgbox](https://imgbox.com/)                                                                                                                                                                    | :white_check_mark: | :white_check_mark: |
+
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
@@ -122,6 +133,7 @@
 | [coc-picgo](https://github.com/PLDaily/coc-picgo)                                                  | A Vim plugin of PicGo.                            |
 | [atom-picgo](https://atom.io/packages/atom-picgo)                                                  | An Atom Editor plugin of PicGo                    |
 | [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core |
+
 
 ## :package: Project using PicGo-Core
 
