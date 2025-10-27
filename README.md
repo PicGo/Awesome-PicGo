@@ -150,6 +150,12 @@
 | [flutter-picgo](https://github.com/PicGo/flutter-picgo) | PicGo mobile app         |
 | [PicHoro](https://github.com/Kuingsmile/PicHoro)        | Another PicGo mobile app |
 
+## Others
+
+| Name                                                                            | Introduction                                                                              |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [imba97/picgo-template-plugin](https://github.com/imba97/picgo-template-plugin) | Another PicGo plugin template repository. A boilerplate to quickly create a PicGo plugin. |
+
 ------
 
 ## Contribution
