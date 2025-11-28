@@ -129,7 +129,8 @@
 
 | Name                                                                                               | Introduction                                      |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [vs-picgo](https://github.com/Spades-S/vs-picgo)                                                   | A VSCode plugin of PicGo.                         |
+| [vs-picgo](https://github.com/Spades-S/vs-picgo)                                                   | A VSCode plugin of                          |
+| [vscode-picgo-paste](https://github.com/zcyisiee/vscode-picgo-paste)                                                   | A VSCode extension that automatically uploads images via PicGo when pasting in Markdown.                        |
 | [coc-picgo](https://github.com/PLDaily/coc-picgo)                                                  | A Vim plugin of PicGo.                            |
 | [atom-picgo](https://atom.io/packages/atom-picgo)                                                  | An Atom Editor plugin of PicGo                    |
 | [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core |
