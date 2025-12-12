@@ -122,7 +122,7 @@
 | [picgo-plugin-custom-api-uploader](https://github.com/Layouwen/picgo-plugin-custom-api-uploader)        | Customize API interface to upload images, Example: [16图床](https://111666.best/). 自定义 api 接口上传图片, 例如: [16图床](https://111666.best/).                                                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-multiple-backup](https://github.com/2ue/picgo-plugin-multiple-backup)                     | A plugin for automatically backing up images to multiple storage services after successful upload to the primary host.                                                                                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-imgbox](https://github.com/aquausora/picgo-plugin-imgbox)                                 | An **uploader** for [imgbox](https://imgbox.com/)                                                                                                                                                                    | :white_check_mark: | :white_check_mark: |
-
+| [/picgo-plugin-im.ge-uploader](https://github.com/zhoucha/picgo-plugin-im.ge-uploader)                  | An **uploader** for [im.ge](https://im.ge/)                                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
