@@ -122,18 +122,20 @@
 | [picgo-plugin-custom-api-uploader](https://github.com/Layouwen/picgo-plugin-custom-api-uploader)        | Customize API interface to upload images, Example: [16图床](https://111666.best/). 自定义 api 接口上传图片, 例如: [16图床](https://111666.best/).                                                                    | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-multiple-backup](https://github.com/2ue/picgo-plugin-multiple-backup)                     | A plugin for automatically backing up images to multiple storage services after successful upload to the primary host.                                                                                               | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-imgbox](https://github.com/aquausora/picgo-plugin-imgbox)                                 | An **uploader** for [imgbox](https://imgbox.com/)                                                                                                                                                                    | :white_check_mark: | :white_check_mark: |
-| [picgo-plugin-im.ge-uploader](https://github.com/zhoucha/picgo-plugin-im.ge-uploader)                  | An **uploader** for [im.ge](https://im.ge/)                                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-im.ge-uploader](https://github.com/zhoucha/picgo-plugin-im.ge-uploader)                   | An **uploader** for [im.ge](https://im.ge/)                                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-compress-next](https://github.com/supine0703/picgo-plugin-compress-next)                  | A plugin for image compression for PicGo(>=^2.3.0). Update, adapt and optimize. Better support and richer features                                                                                                   | :white_check_mark: | :white_check_mark: |
+
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
-| Name                                                                                               | Introduction                                      |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [vs-picgo](https://github.com/Spades-S/vs-picgo)                                                   | A VSCode plugin of                          |
-| [vscode-picgo-paste](https://github.com/zcyisiee/vscode-picgo-paste)                                                   | A VSCode extension that automatically uploads images via PicGo when pasting in Markdown.                        |
-| [coc-picgo](https://github.com/PLDaily/coc-picgo)                                                  | A Vim plugin of PicGo.                            |
-| [atom-picgo](https://atom.io/packages/atom-picgo)                                                  | An Atom Editor plugin of PicGo                    |
-| [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core |
+| Name                                                                                               | Introduction                                                                             |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [vs-picgo](https://github.com/Spades-S/vs-picgo)                                                   | A VSCode plugin of                                                                       |
+| [vscode-picgo-paste](https://github.com/zcyisiee/vscode-picgo-paste)                               | A VSCode extension that automatically uploads images via PicGo when pasting in Markdown. |
+| [coc-picgo](https://github.com/PLDaily/coc-picgo)                                                  | A Vim plugin of PicGo.                                                                   |
+| [atom-picgo](https://atom.io/packages/atom-picgo)                                                  | An Atom Editor plugin of PicGo                                                           |
+| [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core                                        |
 
 
 ## :package: Project using PicGo-Core
