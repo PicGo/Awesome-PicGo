@@ -125,6 +125,7 @@
 | [picgo-plugin-im.ge-uploader](https://github.com/zhoucha/picgo-plugin-im.ge-uploader)                   | An **uploader** for [im.ge](https://im.ge/)                                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-compress-next](https://github.com/supine0703/picgo-plugin-compress-next)                  | A plugin for image compression for PicGo(>=^2.3.0). Update, adapt and optimize. Better support and richer features                                                                                                   | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-watermark-elec](https://github.com/terwer/picgo-plugin-watermark-elec)                    | A plugin for watermarking pictures. A fork version of picgo-picgo-plugin-watermark                                                                                                                                   | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader)                    | An uploader for [云图（cloudimgs)图床](https://github.com/qazzxxx/cloudimgs)                                                                                                                                  | :white_check_mark: | :white_check_mark: |
 
 
 
