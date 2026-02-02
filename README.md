@@ -138,7 +138,7 @@
 | [coc-picgo](https://github.com/PLDaily/coc-picgo)                                                  | A Vim plugin of PicGo.                                                                   |
 | [atom-picgo](https://atom.io/packages/atom-picgo)                                                  | An Atom Editor plugin of PicGo                                                           |
 | [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core                                        |
-
+| [raycast-extension-picgo](https://github.com/RUBisco0211/raycast-extension-picgo.git)              | A Raycast extension to upload images via PicGo-Core                                      |
 
 ## :package: Project using PicGo-Core
 
