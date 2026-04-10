@@ -145,6 +145,7 @@
 | [obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin) | An Obsidian Editor plugin of PicGo and PicGo-Core                                        |
 | [raycast-extension-picgo](https://github.com/RUBisco0211/raycast-extension-picgo.git)              | A Raycast extension to upload images via PicGo-Core                                      |
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=PicGo_Awesome-PicGo) - See what developers you follow are starring on GitHub. Free.
 ## :package: Project using PicGo-Core
 
 | Name                                               | Introduction                                                                                           |
