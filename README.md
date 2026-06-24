@@ -130,6 +130,7 @@
 | [picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader)           | An uploader for [云图（cloudimgs)图床](https://github.com/qazzxxx/cloudimgs)                                                                                                                                         | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-goofish](https://github.com/Kwensiu/picgo-plugin-goofish)                                 | An uploader for [Goofish](https://author.goofish.com/#/) (闲鱼创作者平台)                                                                                                                                            | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-backblaze](https://github.com/cybershang/picgo-plugin-backblaze)                          | An **uploader** for [Backblaze](https://www.backblaze.com/)                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-gitea-uploader](https://github.com/GeorgeHu6/picgo-plugin-gitea-uploader)                 | An **uploader** plugin for [Gitea](https://gitea.com/) repository image hosting.                                                                                                                                     | :white_check_mark: | :white_check_mark: |
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
