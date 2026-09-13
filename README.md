@@ -131,6 +131,7 @@
 | [picgo-plugin-backblaze](https://github.com/cybershang/picgo-plugin-backblaze)                          | An **uploader** for [Backblaze](https://www.backblaze.com/)                                                                                                                                                          | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-gitea-uploader](https://github.com/GeorgeHu6/picgo-plugin-gitea-uploader)                 | An **uploader** plugin for [Gitea](https://gitea.com/) repository image hosting.                                                                                                                                     | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-immich-up](https://github.com/carltony/picgo-plugin-immich-up)                            | An **uploader** for [Immich](https://immich.app/) self-hosted photo management                                                                                                                              | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-upyun-sync-delete](https://github.com/Young143l/picgo-plugin-upyun-sync-delete)           | A plugin for sync-deleting UpYun (又拍云) files when removing images from the PicGo album. 相册删除图片时同步删除又拍云云端文件。                                                                                     | :x:                | :white_check_mark: |
 
 
 ## :hammer_and_wrench: Plugin for Other APPs
