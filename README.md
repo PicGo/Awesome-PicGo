@@ -165,6 +165,7 @@
 | [picgo-plugin-upyun-sync-delete](https://github.com/Young143l/picgo-plugin-upyun-sync-delete)           | A plugin for sync-deleting UpYun (又拍云) files when removing images from the PicGo album. 相册删除图片时同步删除又拍云云端文件。                                                                                     | :x:                | :white_check_mark: |
 | [picgo-plugin-neon](https://github.com/rishi-raj-jain/picgo-plugin-neon)                                | An **uploader** for [Neon Object Storage](https://neon.com/docs/storage/overview), S3-compatible storage that branches with your Neon Postgres database. Supports sync delete from the album. Neon 对象存储图床，支持相册同步删除。  | :white_check_mark: | :white_check_mark: |
 | [picgo-plugin-bilibili-uploader](https://github.com/zhoucha/picgo-plugin-bilibili-uploader)                                | An **uploader** for [bilibili](https://www.bilibili.com/) ,适配新版接口的 B 站图床  | :white_check_mark: | :white_check_mark: |
+| [picgo-plugin-tutu-uploader](https://github.com/zhoucha/picgo-plugin-tutu-uploader)                                | An **uploader** for [tutu](https://tutu.to/) ,适配兔兔图床  | :white_check_mark: | :white_check_mark: |
 
 ## :hammer_and_wrench: Plugin for Other APPs
 
